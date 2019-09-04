@@ -1,0 +1,7 @@
+{
+  "name": "lista-deseos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
